@@ -6,6 +6,7 @@
 [![GitHub License][badge-github-license]][github-license]
 [![GitHub Contributors][badge-github-contributors]][github-contributors]
 [![SWH][badge-swh]][swh-cdxgen]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarsam2021%2Fcdxgen.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarsam2021%2Fcdxgen?ref=badge_shield)
 
 # CycloneDX Generator (cdxgen)
 
@@ -197,6 +198,9 @@ Options:
 ```
 
 All boolean arguments accept `--no` prefix to toggle the behavior.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarsam2021%2Fcdxgen.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarsam2021%2Fcdxgen?ref=badge_large)
 
 ## Example
 
